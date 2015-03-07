@@ -1,0 +1,16 @@
+/home/zchpit/Dokumenty/src/sample2/sqlitemonosamples/sqlitemonosample/sqlitemonosample/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/zchpit/Dokumenty/src/sample2/sqlitemonosamples/sqlitemonosample/sqlitemonosample/bin/Debug/Mono.Data.Sqlite.dll
+/home/zchpit/Dokumenty/src/sample2/sqlitemonosamples/sqlitemonosample/sqlitemonosample/bin/Debug/System.Data.Portable.dll
+/home/zchpit/Dokumenty/src/sample2/sqlitemonosamples/sqlitemonosample/sqlitemonosample/bin/Debug/System.Transactions.Portable.dll
+/home/zchpit/Dokumenty/src/sample2/sqlitemonosamples/sqlitemonosample/sqlitemonosample/bin/Debug/sqlitemonosample.exe.mdb
+/home/zchpit/Dokumenty/src/sample2/sqlitemonosamples/sqlitemonosample/sqlitemonosample/bin/Debug/sqlitemonosample.exe
+/home/zchpit/Dokumenty/src/sample2/sqlitemonosamples/sqlitemonosample/sqlitemonosample/obj/x86/Debug/sqlitemonosample.exe
+/home/zchpit/Dokumenty/src/sample2/sqlitemonosamples/sqlitemonosample/sqlitemonosample/obj/x86/Debug/sqlitemonosample.exe.mdb
+/home/zchpit/Dokumenty/src/sample2/sqlitemonosamples/sqlitemonosample/sqlitemonosample/bin/Debug/Simple.Data.dll
+/home/zchpit/Dokumenty/src/sample2/sqlitemonosamples/sqlitemonosample/sqlitemonosample/bin/Debug/Simple.Data.Ado.dll
+/home/zchpit/Dokumenty/src/sample2/sqlitemonosamples/sqlitemonosample/sqlitemonosample/bin/Debug/System.Data.SQLite.dll
+/home/zchpit/Dokumenty/src/sample2/sqlitemonosamples/sqlitemonosample/sqlitemonosample/bin/Debug/Simple.Data.Sqlite.dll
+/home/zchpit/Dokumenty/src/sample2/sqlitemonosamples/sqlitemonosample/sqlitemonosample/bin/Debug/Castle.Core.dll
+/home/zchpit/Dokumenty/src/sample2/sqlitemonosamples/sqlitemonosample/sqlitemonosample/bin/Debug/Simple.Data.Extension.dll
+/home/zchpit/Dokumenty/src/sample2/sqlitemonosamples/sqlitemonosample/sqlitemonosample/bin/Debug/Simple.Data.SqlAnywhere.dll
+/home/zchpit/Dokumenty/src/sample2/sqlitemonosamples/sqlitemonosample/sqlitemonosample/bin/Debug/Mono.CSharp.dll
